@@ -1,0 +1,13 @@
+.img-container { position: relative; }
+
+.img-container #top {
+  position: absolute;
+  top: 0px;
+}
+
+#top{
+  left: 20px;
+  clip:rect(200px auto auto auto);
+   top:0;
+    left:0;
+}
